@@ -1,15 +1,16 @@
 ![I'm Little Web Developer.](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/91013200_684905545587944_8737898620528885760_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=19026a&_nc_ohc=rTKT2907lvsAX-D4WhJ&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT_WraaV2DA63jXCEWN9ozcjEfDPzjDCzeeMRxtTa8B5pA&oe=633F630E)
 
 # Hi there 👋, Nazmul Hossain
-#### I'm Little Web Developer.
+#### I'm Web & Mobile App Developer.
 
 My name is Nazmul Hussain. I am a student studying in second year honors.
 
-Skills: HTML/CSS/JS/REACT/REACT NATIVE
-
-- 🔭 I’m currently working on React Native 
-- 🌱 I’m currently learning React Native 
-- 💬 Ask me about Anything 
+### Skills:
+- HTML
+- CSS 
+- JavaScript
+- React Js
+- React Native
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NazmulHossain2905)  
