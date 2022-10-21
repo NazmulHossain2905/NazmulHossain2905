@@ -5,17 +5,34 @@
 
 My name is Nazmul Hussain. I am a student studying in second year honors.
 
-### Skills:
-- HTML
-- CSS 
-- JavaScript
-- React Js
-- React Native
+<!-- ------------------------------ -->
+<!-- Below is my social links start -->
+<!-- ------------------------------ -->
+### :coffee: &emsp;Connect with me!
 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nazmul.hossain.75457) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmul5462/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NazmulH520) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhossain2905@gmail.com)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NazmulHossain2905)  
+<!-- ------------------------------ -->
+<!-- Below is my social links end -->
+<!-- ------------------------------ -->
 
-<a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+<!-- ------------------------------ -->
+<!-- Below is my skils start -->
+<!-- ------------------------------ -->
+### MY Skils!
+
+[![HTML Badge](https://img.shields.io/badge/html-F05032?style=for-the-badge&logo=html&logoColor=white)](#)
+[![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![React Badge](https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
+[![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
+
+<!-- ------------------------------ -->
+<!-- Below is my skils end -->
+<!-- ------------------------------ -->
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905)](https://github.com/anuraghazra/github-readme-stats)
 
