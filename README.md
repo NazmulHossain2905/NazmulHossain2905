@@ -19,7 +19,7 @@ My name is Nazmul Hussain. I am a student studying in second year honors.
 <!-- ------------------------------ -->
 <!-- Below is my skils start -->
 <!-- ------------------------------ -->
-### My Skils!
+### My skills!
 
 [![HTML Badge](https://img.shields.io/badge/html-F05032?style=for-the-badge&logo=html&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#) 
