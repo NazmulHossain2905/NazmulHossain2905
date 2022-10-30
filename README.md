@@ -1,6 +1,6 @@
 <img src='Welcome.gif' alt='Welcome to github'>
 
-# Hi there 👋, Nazmul Hossain
+# Hi there 👋, I'm Nazmul Hossain
 #### I'm Web & Mobile App Developer.
 
 My name is Nazmul Hussain. I am a student studying in second year honors.
