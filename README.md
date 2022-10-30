@@ -3,7 +3,12 @@
 # Hi there 👋, I'm Nazmul Hossain
 #### I'm Web & Mobile App Developer.
 
-My name is Nazmul Hussain. I am a student studying in second year honors.
+Hey! I’m Nazmul Hossain. I live in Bangladesh and
+currently live in Jessore. I am a student by profession.
+As a Political Science student studying in Honors 2nd
+year. I spend my days learning programming languages
+and new concepts. I love coding, I am more focused on
+JavaScript, React Js, <b> React Native </b> etc.
 
 <!-- ------------------------------ -->
 <!-- Below is my social links start -->
