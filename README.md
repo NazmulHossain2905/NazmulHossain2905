@@ -1,4 +1,4 @@
-<img src='Welcome.gif' alt='Welcome to github'>
+<img src='./Welcome.gif' alt='Welcome to github'>
 
 # Hi there 👋, I'm Nazmul Hossain
 #### I'm Web & Mobile App Developer.
@@ -11,19 +11,19 @@ and new concepts. I love coding, I am more focused on
 JavaScript, React Js, <b> React Native </b> etc.
 
 <!-- ------------------------------ -->
-<!-- Below is my social links start -->
+<!-- ---- My social links start --- -->
 <!-- ------------------------------ -->
 ### :coffee: &emsp;Connect with me!
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nazmul.hossain.75457) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmul5462/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NazmulH520) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhossain2905@gmail.com)
 
 <!-- ------------------------------ -->
-<!-- Below is my social links end -->
+<!-- ----- My social links end ---- -->
 <!-- ------------------------------ -->
 
-<!-- ------------------------------ -->
-<!-- Below is my skils start -->
-<!-- ------------------------------ -->
+<!-- -------------------------------- -->
+<!-- -------- My skils start -------- -->
+<!-- -------------------------------- -->
 ### My skills!
 
 [![HTML Badge](https://img.shields.io/badge/html-F05032?style=for-the-badge&logo=html&logoColor=white)](#)
@@ -35,8 +35,18 @@ JavaScript, React Js, <b> React Native </b> etc.
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
 
 <!-- ------------------------------ -->
-<!-- Below is my skils end -->
+<!-- -------- My skils end -------- -->
 <!-- ------------------------------ -->
+
+<!-- ------------------------------------ -->
+<!-- GitHub contribution grid snake start -->
+<!-- ------------------------------------ -->
+
+<img src='./github-contribution-grid-snake.svg' alt='GitHub Contribution'>
+
+<!-- ---------------------------------- -->
+<!-- GitHub contribution grid snake end -->
+<!-- ---------------------------------- -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905)](https://github.com/anuraghazra/github-readme-stats)
