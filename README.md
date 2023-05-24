@@ -32,7 +32,10 @@ JavaScript, React Js, <b> React Native </b> etc.
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![React Badge](https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) 
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visual%20studio&logoColor=blue&labelColor=black)](#) 
+[![Node Js](https://img.shields.io/badge/Node%20Js-84BB00?style=for-the-badge)](#)
+[![Express](https://img.shields.io/badge/Express-9785CF?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=7B7B7B)](#) 
+[![MongoDB](https://img.shields.io/badge/Mongo_DB-3F9542?style=for-the-badge&logo=mongodb&logoColor=3F9542&labelColor=black)](#)  
 
 <!-- ------------------------------ -->
 <!-- -------- My skils end -------- -->
