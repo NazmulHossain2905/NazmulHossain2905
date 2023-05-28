@@ -3,12 +3,9 @@
 # Hi there 👋, I'm Nazmul Hossain
 #### I'm Web & Mobile App Developer.
 
-Hey! I’m Nazmul Hossain. I live in Bangladesh and
-currently live in Jessore. I am a student by profession.
-As a Political Science student studying in Honors 2nd
-year. I spend my days learning programming languages
-and new concepts. I love coding, I am more focused on
-JavaScript, React Js, <b> React Native </b> etc.
+Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District in Bangladesh. Currently, I live in Jessore. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding, I am more focused on JavaScript, React Js, <b> React Native </b>, etc.
+
+
 
 <!-- ------------------------------ -->
 <!-- ---- My social links start --- -->
