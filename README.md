@@ -37,12 +37,12 @@ Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District i
 [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visual%20studio&logoColor=blue&labelColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express-9785CF?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=7B7B7B)](#) 
+[![Express.js](https://img.shields.io/badge/Express.js-9785CF?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=7B7B7B)](#) 
 [![MongoDB](https://img.shields.io/badge/Mongo_DB-3F9542?style=for-the-badge&logo=mongodb&logoColor=3F9542&labelColor=black)](#)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-C20000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=C20000) 
+<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
 
 
 <!-- [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)  -->
