@@ -5,7 +5,7 @@
 
 Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District in Bangladesh. Currently, I live in Jessore. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding, I am more focused on JavaScript, React Js, <b> React Native</b> etc.
 
-
+![Profile views](https://gpvc.arturio.dev/NazmulHossain2905)  
 
 <!-- ------------------------------ -->
 <!-- ---- My social links start --- -->
@@ -71,7 +71,7 @@ Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District i
 <!-- GitHub contribution grid snake end -->
 <!-- ---------------------------------- -->
 
-<div>
+<div width="100%">
 <p align="center">
    <table align="center">
        <tr>
@@ -79,15 +79,15 @@ Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District i
        <td align="center" width="50%"><img alt="NazmulHossain:: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true"> </td>
      </tr>
      <tr>
-        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NazmulHossain2905&theme=blue-green&hide_border=true">         </td>
+        <td colspan="2" align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NazmulHossain2905&theme=blue-green&hide_border=true"></td>
      </tr>
    </table>
 </p>
 </div>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p align="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+</p> -->
 
 ![GitHub metrics](https://metrics.lecoq.io/NazmulHossain2905)   
 
-![Profile views](https://gpvc.arturio.dev/NazmulHossain2905)  
