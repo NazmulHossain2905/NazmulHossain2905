@@ -5,7 +5,8 @@
 
 Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District in Bangladesh. Currently, I live in Jessore. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding, I am more focused on JavaScript, React Js, <b> React Native</b> etc.
 
-![Profile views](https://gpvc.arturio.dev/NazmulHossain2905)  
+![Github](https://img.shields.io/github/followers/NazmulHossain2905?label=Follow&style=social) 
+![Profile views](https://komarev.com/ghpvc/?username=NazmulHossain2905&color=0078C2)
 
 <!-- ------------------------------ -->
 <!-- ---- My social links start --- -->
@@ -89,5 +90,5 @@ Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District i
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
 </p> -->
 
-![GitHub metrics](https://metrics.lecoq.io/NazmulHossain2905)   
+![GitHub metrics](https://metrics.lecoq.io/NazmulHossain2905) 
 
