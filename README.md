@@ -1,7 +1,7 @@
 <img src='./Welcome.gif' alt='Welcome to github'>
 
 # Hi there 👋, I'm Nazmul Hossain
-#### I'm Web & Mobile App Developer.
+## _I'm Web & Mobile App Developer._
 
 Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District in Bangladesh. Currently, I live in Jessore. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding, I am more focused on JavaScript, React Js, <b> React Native</b> etc.
 
@@ -11,7 +11,7 @@ Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District i
 <!-- ------------------------------ -->
 <!-- ---- My social links start --- -->
 <!-- ------------------------------ -->
-### :coffee: &emsp;Connect with me!
+## :coffee: _Connect with me!_
 
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/NazmulHossain2905) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nazmul5462/) 
@@ -27,7 +27,7 @@ Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District i
 <!-- -------------------------------- -->
 <!-- -------- My skils start -------- -->
 <!-- -------------------------------- -->
-### My skills!
+## _My skills!_
 
 [![HTML Badge](https://img.shields.io/badge/html-F05032?style=for-the-badge&logo=html&logoColor=white)](#)
 [![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#) 
