@@ -3,7 +3,7 @@
 # Hi there 👋, I'm Nazmul Hossain
 ## _I'm Web & Mobile App Developer._
 
-Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District in Bangladesh. Currently, I live in Jessore. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding, I am more focused on JavaScript, React Js, <b> React Native</b> etc.
+Hello! I’m Nazmul Hossain. I live at Moheshpur Upazila of Jhenaidah District in Bangladesh. Currently, I live in Jessore. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding, but I am more focused on JavaScript, React JS, <b> React Native</b>, etc.
 
 ![Github](https://img.shields.io/github/followers/NazmulHossain2905?label=Follow&style=social) 
 ![Profile views](https://komarev.com/ghpvc/?username=NazmulHossain2905&color=0078C2)
