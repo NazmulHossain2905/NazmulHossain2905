@@ -1,4 +1,4 @@
-[![PrimaryHeader](./images/welcome.gif)](#)
+<img src='./images/welcome.gif' alt='Welcome to github'>
 
 <h1 id="top" align="center">Hi there 👋, I'm Nazmul Hossain</h1>
 <h3 align="center">React Native | Frontend Developer | JavaScript | TypeScript</h3>
@@ -115,7 +115,3 @@
       </tr>
    </table>
 </div>
-
-<a href="#top">
-    <h3 align="center" >GO TO TOP</h3>
-</a>
