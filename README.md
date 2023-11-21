@@ -1,6 +1,6 @@
-<img src='./images/welcome.gif' alt='Welcome to github'>
+<img src='./images/welcome.gif' alt='Welcome to github' />
 
-<h1 id="top" align="center">Hi there 👋, I'm Nazmul Hossain</h1>
+<h1 align="center">Hi there 👋, I'm Nazmul Hossain</h1>
 <h3 align="center">React Native | Frontend Developer | JavaScript | TypeScript</h3>
 
 ![Github Followers](https://img.shields.io/github/followers/NazmulHossain2905?label=Follow&style=social)
@@ -100,6 +100,7 @@
 
 <div align="center" width="100%">
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NazmulHossain2905&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br /> 
     <br /> 
     <table align="center">
       <tr>
