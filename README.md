@@ -1,71 +1,90 @@
-<img src='./images/Welcome.gif' alt='Welcome to github'>
+[![PrimaryHeader](./images/welcome.gif)](#)
 
-# Hi there 👋, I'm Nazmul Hossain
+<h1 id="top" align="center">Hi there 👋, I'm Nazmul Hossain</h1>
+<h3 align="center">React Native | Frontend Developer | JavaScript | TypeScript</h3>
 
-## _I'm Web & Mobile App Developer._
+![Github Followers](https://img.shields.io/github/followers/NazmulHossain2905?label=Follow&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=NazmulHossain2905&color=0078C2)
 
-Hello! I’m Nazmul Hossain. I am a student by profession but I spend my days learning programming languages and new concepts. I love coding and right now I am more focused on JavaScript, React JS, <b> React Native</b>, etc.
+<!-- ## ⚡️ Discover in a second
 
-![Github](https://img.shields.io/github/followers/NazmulHossain2905?label=Follow&style=social)
-![Profile views](https://komarev.com/ghpvc/?username=NazmulHossain2905&color=0078C2)
+<table border="0" width="100%">
+    <tr>
+        <td width="65%">
+            <ul>
+                <li>List One</li>
+                <li>List Three</li>
+                <li>List Four</li>
+            </ul>
+        </td>
+        <td width="35%" align="right">
+        <img src='./images/typing-laptop.gif' alt='GitHub Contribution'>
+        </td>
+    </tr>
+</table> -->
 
-<!-- ------------------------------ -->
-<!-- ---- My social links start --- -->
-<!-- ------------------------------ -->
-
-## :coffee: _Connect with me!_
+## 🔗 **Get in Touch**
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/NazmulHossain2905)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazmulh2905/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/NazmulH2905)
-[![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhossain2905@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nazmulhossain2905@gmail.com)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazmulhossain2905/)  
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/NazmulHossain2905)
 
-<!-- ------------------------------ -->
-<!-- ----- My social links end ---- -->
-<!-- ------------------------------ -->
+## 🛠️ **Skills**
 
-<!-- -------------------------------- -->
-<!-- -------- My skils start -------- -->
-<!-- -------------------------------- -->
+### Programming Languages
 
-## _My skills!_
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-[![HTML Badge](https://img.shields.io/badge/html-F05032?style=for-the-badge&logo=html&logoColor=white)](#)
-[![CSS Badge](https://img.shields.io/badge/-CSS-007acc?style=for-the-badge&labelColor=black&logo=css&logoColor=007acc)](#)
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+<!-- ![typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge) -->
+<!-- ![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white) -->
+
+### Frontend Development
+
+<!-- ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) -->
+<!-- ![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) -->
+<!-- ![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
+<!-- ![material-ui](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white) -->
+<!-- ![ant-design](https://img.shields.io/badge/Ant-Design-4285F4?style=for-the-badge&logo=antdesign&logoColor=white) -->
+<!-- ![chakra-ui](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white) -->
+<!-- ![tailwind-css](https://img.shields.io/badge/tailwind_css-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+<!-- ![sass](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white) -->
+
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) -->
+<!-- ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) -->
 
 <!--
-[![React Js](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![React Native](https://img.shields.io/badge/-React_Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
-[![Git Badge](https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-blue?style=for-the-badge&logo=visual%20studio&logoColor=blue&labelColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express.js](https://img.shields.io/badge/Express.js-9785CF?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=7B7B7B)](#)
-[![MongoDB](https://img.shields.io/badge/Mongo_DB-3F9542?style=for-the-badge&logo=mongodb&logoColor=3F9542&labelColor=black)](#)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-C20000.svg?style=for-the-badge&logo=npm&logoColor=white&labelColor=C20000)
--->
-<!-- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) -->
+### Back-End Development
 
-<!-- [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)  -->
-<!-- ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  -->
-<!-- ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)  -->
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  -->
-<!-- ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  -->
-<!-- ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  -->
-<!-- ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  -->
-<!-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  -->
-<!-- ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  -->
-<!-- ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)  -->
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) -->
+![node](https://img.shields.io/badge/node-74AC5F?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/express-051A5C?style=for-the-badge&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-00EB63?style=for-the-badge&logo=mongodb&logoColor=white)
+ -->
 
-<!-- ------------------------------ -->
-<!-- -------- My skils end -------- -->
-<!-- ------------------------------ -->
+### Mobile App Development
+
+![React Native](https://img.shields.io/badge/React%20Native-D674D4?style=for-the-badge&logo=react&logoColor=white)
+
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge) -->
+
+### Design Tools
+
+![figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<!-- ![canva](https://img.shields.io/badge/canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) -->
+
+<!-- ## 🖥️ **Workspace Setup**
+
+![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ram](https://img.shields.io/badge/Ram-8GB-0078D6?style=for-the-badge&logo=ram&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white) -->
+
+## 🎯 **Contributes**
 
 <!-- ------------------------------------ -->
 <!-- GitHub contribution grid snake start -->
@@ -77,26 +96,26 @@ Hello! I’m Nazmul Hossain. I am a student by profession but I spend my days le
 <!-- GitHub contribution grid snake end -->
 <!-- ---------------------------------- -->
 
-<div width="100%">
-<p align="center">
-   <table align="center">
-       <tr>
-       <td align="center" width="50%"><img alt="NazmulHossain:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=NazmulHossain2905&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
-       <td align="center" width="50%">
-       <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NazmulHossain2905&theme=blue-green&hide_border=true">
-        </td>
-     </tr>
-     <tr>
-        <td colspan="2" align="center">
-        <img alt="NazmulHossain: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true">
-        </td>
-     </tr>
+## 📈 **Stats**
+
+<div align="center" width="100%">
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=NazmulHossain2905&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
+    <br /> 
+    <table align="center">
+      <tr>
+         <td align="center" width="50%"><img alt="NazmulHossain:: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=NazmulHossain2905&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" /></td>
+         <td align="center" width="50%">
+         <img  align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NazmulHossain2905&theme=blue-green&hide_border=true">
+      </td>
+   </tr>
+      <tr>
+         <td colspan="2" align="center">
+         <img alt="NazmulHossain: Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905&langs_count=14&theme=blue-green&layout=compact&hide=html&hide_border=true">
+         </td>
+      </tr>
    </table>
-</p>
 </div>
 
-<!-- <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulHossain2905&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
-</p> -->
-
-![GitHub metrics](https://metrics.lecoq.io/NazmulHossain2905)
+<a href="#top">
+    <h3 align="center" >GO TO TOP</h3>
+</a>
