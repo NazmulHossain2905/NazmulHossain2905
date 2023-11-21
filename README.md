@@ -1,4 +1,6 @@
-<img src='./welcome.gif' alt='Welcome to github' />
+<div width="100%" align="center">
+    <img src='./images/welcome.gif' alt='Welcome to github' />
+</div>
 
 <h1 align="center">Hi there 👋, I'm Nazmul Hossain</h1>
 <h3 align="center">React Native | Frontend Developer | JavaScript | TypeScript</h3>
@@ -6,22 +8,22 @@
 ![Github Followers](https://img.shields.io/github/followers/NazmulHossain2905?label=Follow&style=social)
 ![Profile Views](https://komarev.com/ghpvc/?username=NazmulHossain2905&color=0078C2)
 
-<!-- ## ⚡️ Discover in a second
+## ⚡️ Discover in a second
 
 <table border="0" width="100%">
     <tr>
         <td width="65%">
             <ul>
-                <li>List One</li>
-                <li>List Three</li>
-                <li>List Four</li>
+               <li>I love coding 💘.</li>
+               <li>I spend my days learning programming languages and new concepts.</li>
+               <li>Right now I am more focused on JavaScript, React JS, React Native.</li>
             </ul>
         </td>
         <td width="35%" align="right">
         <img src='./images/typing-laptop.gif' alt='GitHub Contribution'>
         </td>
     </tr>
-</table> -->
+</table>
 
 ## 🔗 **Get in Touch**
 
@@ -116,3 +118,5 @@
       </tr>
    </table>
 </div>
+
+![GitHub metrics](https://metrics.lecoq.io/NazmulHossain2905)
