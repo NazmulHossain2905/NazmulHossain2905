@@ -1,4 +1,4 @@
-<img src='./images/welcome.gif' alt='Welcome to github' />
+<img src='./welcome.gif' alt='Welcome to github' />
 
 <h1 align="center">Hi there 👋, I'm Nazmul Hossain</h1>
 <h3 align="center">React Native | Frontend Developer | JavaScript | TypeScript</h3>
