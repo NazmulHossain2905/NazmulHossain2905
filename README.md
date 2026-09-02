@@ -171,8 +171,8 @@
 ## 📊 **GitHub Stats**
 
 <div width="100%" align="center">
-   <img align="center" src="https://github-stats-extended.vercel.app/api?username=NazmulHossain2905&theme=dark&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Nazmul's github stats"/> 
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=NazmulHossain2905&theme=dark&hide_border=true" alt="Nazmul's github stats" />
+   <img align="center" width="50%" src="https://github-stats-extended.vercel.app/api?username=NazmulHossain2905&theme=dark&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Nazmul's github stats"/> 
+   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=NazmulHossain2905&theme=dark&hide_border=true" alt="Nazmul's github stats" />
 </div>
 
 <!-- ## 🚀 **Featured Projects**
