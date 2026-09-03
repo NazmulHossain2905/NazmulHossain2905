@@ -233,7 +233,11 @@ I try to approach every project with a focus on:
 
 ## 📈 My Development Journey
 
-```text
+<p align="left">
+  <img src="./images/dev_journey.png" width="40%" alt="Dev Journey" />
+</p>
+
+<!-- ```text
                  ╭───────────────╮
                  │  JavaScript   │
                  ╰───────┬───────╯
@@ -269,7 +273,7 @@ I try to approach every project with a focus on:
               ╭──────────▼───────────╮
               │ SOFTWARE ENGINEERING │
               ╰──────────────────────╯
-```
+``` -->
 
 I'm continuously moving deeper into the stack — from **building interfaces** to understanding the **systems behind them**.
 
