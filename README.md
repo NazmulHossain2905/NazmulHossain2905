@@ -234,23 +234,41 @@ I try to approach every project with a focus on:
 ## 📈 My Development Journey
 
 ```text
-JavaScript
-    ↓
-React.js
-    ↓
-TypeScript
-    ↓
-React Native
-    ↓
-Next.js
-    ↓
-Node.js + Express.js
-    ↓
-MongoDB
-    ↓
-Full-Stack Development
-    ↓
-Software Engineering
+                 ╭───────────────╮
+                 │  JavaScript   │
+                 ╰───────┬───────╯
+                         │
+                 ╭───────▼──────╮
+                 │   React.js   │
+                 ╰───────┬──────╯
+                         │
+                  ╭──────▼───────╮
+                  │  TypeScript  │
+                  ╰──────┬───────╯
+                         │
+                 ╭───────▼────────╮
+                 │  React Native  │
+                 ╰───────┬────────╯
+                         │
+                 ╭───────▼──────╮
+                 │    Next.js   │
+                 ╰───────┬──────╯
+                         │
+          ╭──────────────▼──────────────╮
+          │    Node.js + Express.js     │
+          ╰──────────────┬──────────────╯
+                         │
+                  ╭──────▼───────╮
+                  │    MongoDB   │
+                  ╰──────┬───────╯
+                         │
+            ╭────────────▼─────────────╮
+            │   Full-Stack Developer   │
+            ╰────────────┬─────────────╯
+                         │
+              ╭──────────▼───────────╮
+              │ SOFTWARE ENGINEERING │
+              ╰──────────────────────╯
 ```
 
 I'm continuously moving deeper into the stack — from **building interfaces** to understanding the **systems behind them**.
