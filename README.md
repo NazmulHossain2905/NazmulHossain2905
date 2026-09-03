@@ -1,5 +1,5 @@
 <a name="top"></a>
-![Banner](./assets/images/banners/portfolio_banner.png)
+![Banner](./images/banners/banner_1.png)
 
 # 👋 Hi, I'm Nazmul Hossain
 
@@ -46,9 +46,13 @@ I'm currently focused on strengthening my skills in **React.js, Next.js, Node.js
 })(alive);
 ```
 
-<img width="30%" src='./assets/images/typing-laptop.gif' alt='GitHub Contribution' align="right" >
+<!-- <img width="30%" src='./images/typing-laptop.gif' alt='GitHub Contribution' align="right" > -->
+
+---
 
 ## 🛠️ **Tech Stack**
+
+<img width="30%" src='./images/typing-laptop.gif' alt='GitHub Contribution' align="right" >
 
 ### 💻 Programming Languages
 
@@ -128,7 +132,7 @@ Here are some of the projects I'm building and experimenting with while developi
 <td width="50%" valign="top">
 
 <a href="https://github.com/NazmulHossain2905/statistics-mathematics">
-   <img src="./assets/images/projects/project-2.gif" width="100%" />
+   <img src="./images/projects/project-2.gif" width="100%" />
 </a>
 
 ### 📊 Statistics Mathematics
@@ -162,7 +166,7 @@ Here are some of the projects I'm building and experimenting with while developi
 <td width="50%" valign="top">
 
 <a href="https://github.com/NazmulHossain2905/react-password-generator">
-<img src="./assets/images/projects/project-4.png" width="100%" />
+<img src="./images/projects/project-4.png" width="100%" />
 </a>
 
 ### 🔐 React Password Generator
@@ -257,7 +261,7 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 <!-- GitHub contribution grid snake start -->
 <!-- ------------------------------------ -->
 <p align="center">
-   <img src='./assets/images/github-contribution-grid-snake.svg' alt='GitHub Contribution'>
+   <img src='./images/github-contribution-grid-snake.svg' alt='GitHub Contribution'>
 </p>
 <!-- ---------------------------------- -->
 <!-- GitHub contribution grid snake end -->
@@ -337,7 +341,7 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 ---
 
 <a href="https://github.com/NazmulHossain2905/statistics-mathematics">
-  <img src="./assets/images/project-2.gif" width="400" />
+  <img src="./images/project-2.gif" width="400" />
 </a>
 
 ### 📊 Statistics Mathematics — Statistics Problem Solver
@@ -365,7 +369,7 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 ---
 
 <a href="https://github.com/NazmulHossain2905/react-password-generator">
-  <img src="./assets/images/project-4.png" width="400" />
+  <img src="./images/project-4.png" width="400" />
 </a>
 
 ### 🔐 React Password Generator — Secure Password Generator
@@ -401,6 +405,8 @@ I'm always interested in connecting with developers, learning from others, discu
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/NazmulHossain2905)
 
 ---
+
+![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=NazmulHossain2905&theme=dracula&headerStyle=mac&typingSpeed=40&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Ctop-repos%2Cexit)
 
 ## 💬 Let's Build Something
 
