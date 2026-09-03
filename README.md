@@ -52,7 +52,7 @@ I'm currently focused on strengthening my skills in **React.js, Next.js, Node.js
 
 ## 🛠️ **Tech Stack**
 
-<img width="30%" src='./images/typing-laptop.gif' alt='GitHub Contribution' align="right" >
+<img width="30%" src='./images/dev_journey.png' alt='GitHub Contribution' align="right" >
 
 ### 💻 Programming Languages
 
@@ -233,11 +233,7 @@ I try to approach every project with a focus on:
 
 ## 📈 My Development Journey
 
-<p align="left">
-  <img src="./images/dev_journey.png" width="40%" alt="Dev Journey" />
-</p>
-
-<!-- ```text
+```text
                  ╭───────────────╮
                  │  JavaScript   │
                  ╰───────┬───────╯
@@ -273,7 +269,7 @@ I try to approach every project with a focus on:
               ╭──────────▼───────────╮
               │ SOFTWARE ENGINEERING │
               ╰──────────────────────╯
-``` -->
+```
 
 I'm continuously moving deeper into the stack — from **building interfaces** to understanding the **systems behind them**.
 
