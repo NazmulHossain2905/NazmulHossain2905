@@ -448,3 +448,12 @@ Whether you're interested in **web development, mobile development, JavaScript, 
 <p align="center">
   <a href="#top">Go to top 🔝</a>
 </p>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:0369A1,100:2563EB"
+  width="100%"
+/>
+
+</div>
