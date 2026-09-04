@@ -298,7 +298,7 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazmulHossain2905&theme=dark"
-    width="90%"
+    width="100%"
     alt="GitHub Profile Summary"
   />
 </p>
@@ -308,43 +308,44 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazmulHossain2905&theme=dark"
-    width="45%"
+    width="48%"
     alt="Top Languages by Repository"
   />
+   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazmulHossain2905&theme=dark"
-    width="45%"
+    width="48%"
     alt="Top Languages by Commit"
   />
 </p>
 
 ### 📈 GitHub Statistics
 
-<p align="center">
+<p align="center" width="100%">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazmulHossain2905&theme=dark"
-    width="45%"
+    width="48%"
     alt="GitHub Statistics"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazmulHossain2905&theme=dark&utcOffset=0"
-    width="45%"
+    width="48%"
     alt="Productive Time UTC"
   />
 </p>
 
 ### 🔥 Contribution Streak
 
-<p align="center">
+<p align="center" width="100%">
   <img
     src="https://github-readme-stats.shion.dev/api?username=NazmulHossain2905&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
-    width="42%"
+    width="46%"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://streak-stats.demolab.com/?user=NazmulHossain2905&theme=dark&hide_border=true"
-    width="46%"
+    width="50%"
   />
 </p>
 
