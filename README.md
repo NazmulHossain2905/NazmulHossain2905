@@ -192,7 +192,7 @@ Here are some of the projects I'm building and experimenting with while developi
 ---
 
 <!-- <div width="100%" align="center">
-   <img align="center" src="https://github-stats-extended.vercel.app/api?username=NazmulHossain2905&theme=dark&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Nazmul's github stats"/>
+   <img align="center" src="https://github-stats-extended.vercel.app/api?username=NazmulHossain2905&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Nazmul's github stats"/>
 </div> -->
 
 ## 🌱 Currently Learning
@@ -297,7 +297,7 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazmulHossain2905&theme=dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NazmulHossain2905&theme=github_dark"
     width="100%"
     alt="GitHub Profile Summary"
   />
@@ -307,13 +307,13 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazmulHossain2905&theme=dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NazmulHossain2905&theme=github_dark"
     width="48%"
     alt="Top Languages by Repository"
   />
    &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazmulHossain2905&theme=dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NazmulHossain2905&theme=github_dark"
     width="48%"
     alt="Top Languages by Commit"
   />
@@ -323,13 +323,13 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 
 <p align="center" width="100%">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazmulHossain2905&theme=dark"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NazmulHossain2905&theme=github_dark"
     width="48%"
     alt="GitHub Statistics"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazmulHossain2905&theme=dark&utcOffset=0"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=NazmulHossain2905&theme=github_dark&utcOffset=0"
     width="48%"
     alt="Productive Time UTC"
   />
@@ -339,12 +339,12 @@ I'm continuously moving deeper into the stack — from **building interfaces** t
 
 <p align="center" width="100%">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=NazmulHossain2905&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+    src="https://github-readme-stats.shion.dev/api?username=NazmulHossain2905&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false"
     width="46%"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://streak-stats.demolab.com/?user=NazmulHossain2905&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=NazmulHossain2905&theme=github_dark&hide_border=true"
     width="50%"
   />
 </p>
